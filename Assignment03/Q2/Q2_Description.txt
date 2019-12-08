@@ -1,0 +1,3 @@
+Q2_Answer:
+If we want to get rid of these visible anomalies, we should use either one of two images before merging.
+And then, overlaping it with the same location where these images merged into one image.
